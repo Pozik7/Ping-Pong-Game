@@ -4,7 +4,7 @@ import turtle
 screen = turtle.Screen()
 screen.title("Ping Pong")
 screen.bgcolor("black")
-screen.setup(width=1280, height=720)
+screen.setup(width=600, height=400)
 
 # Initialize scores
 score_a = 0
